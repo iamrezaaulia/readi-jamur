@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "Hidup Lebih Sehat",
+    "subtitle": "Jamur Memiliki Banyak Manfaat Untuk Kesehatan Tubuh",
+    "image": "/images/jumbotron/healthy.svg",
+    "alt": "Hidup Sehat",
+    "direction": "row",
+    "flex": "flex-end"
+  },
+  {
+    "id": 2,
+    "title": "Makanan Organik",
+    "subtitle": "Jamur Bisa Dijadikan Pengganti Daging Untuk Vegetarian",
+    "image": "/images/jumbotron/organic.svg",
+    "alt": "Makanan Organik",
+    "direction": "row-reverse",
+    "flex": "flex-start"
+  },
+  {
+    "id": 3,
+    "title": "Lebih Murah Dari Daging",
+    "subtitle": "Alternatif Pengganti Daging Untuk Orang Yang Sedang Menurukan Berat Badan",
+    "image": "/images/jumbotron/cheap.svg",
+    "alt": "Lebih Murah",
+    "direction": "row",
+    "flex": "flex-end"
+  }
+]
